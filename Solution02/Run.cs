@@ -7,7 +7,7 @@ namespace Solution02
     {
         static void Main()
         {
-
+            Console.WriteLine("Please insert odd number in range 2-10000:");
             var n = int.Parse(Console.ReadLine());
 
 
