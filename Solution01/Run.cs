@@ -19,7 +19,6 @@ namespace Solution01
                 n = int.Parse(Console.ReadLine());
             }
 
-            //print
             Print(n);
 
         }
