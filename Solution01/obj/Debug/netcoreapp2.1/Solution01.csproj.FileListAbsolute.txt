@@ -1,0 +1,11 @@
+E:\Work\Programing\GitCommit\Mentormate\Solution01\bin\Debug\netcoreapp2.1\Solution01.deps.json
+E:\Work\Programing\GitCommit\Mentormate\Solution01\bin\Debug\netcoreapp2.1\Solution01.runtimeconfig.json
+E:\Work\Programing\GitCommit\Mentormate\Solution01\bin\Debug\netcoreapp2.1\Solution01.runtimeconfig.dev.json
+E:\Work\Programing\GitCommit\Mentormate\Solution01\bin\Debug\netcoreapp2.1\Solution01.dll
+E:\Work\Programing\GitCommit\Mentormate\Solution01\bin\Debug\netcoreapp2.1\Solution01.pdb
+E:\Work\Programing\GitCommit\Mentormate\Solution01\obj\Debug\netcoreapp2.1\Solution01.csprojAssemblyReference.cache
+E:\Work\Programing\GitCommit\Mentormate\Solution01\obj\Debug\netcoreapp2.1\Solution01.csproj.CoreCompileInputs.cache
+E:\Work\Programing\GitCommit\Mentormate\Solution01\obj\Debug\netcoreapp2.1\Solution01.AssemblyInfoInputs.cache
+E:\Work\Programing\GitCommit\Mentormate\Solution01\obj\Debug\netcoreapp2.1\Solution01.AssemblyInfo.cs
+E:\Work\Programing\GitCommit\Mentormate\Solution01\obj\Debug\netcoreapp2.1\Solution01.dll
+E:\Work\Programing\GitCommit\Mentormate\Solution01\obj\Debug\netcoreapp2.1\Solution01.pdb
